@@ -1,0 +1,5 @@
+# Local recovery workspace only; canonical recovered assets are at repository root.
+/google_drive/
+/recovered/
+*.zip
+.DS_Store
